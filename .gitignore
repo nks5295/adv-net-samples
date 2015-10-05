@@ -28,7 +28,12 @@
 *.x86_64
 *.hex
 
+<<<<<<< HEAD
 #Server & Client Pair
 server-tcp
 client-tcp
 tags
+=======
+# Debug files
+*.dSYM/
+>>>>>>> dfbe1ca87a8e51d7dc4e53ba67c80fcf62795384
